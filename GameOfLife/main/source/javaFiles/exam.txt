@@ -1,0 +1,10 @@
+What is my name?
+Vitaly
+Dan
+David
+Lea
+What is the country of my birth?
+Israel
+Spain
+Japan
+Brazil
